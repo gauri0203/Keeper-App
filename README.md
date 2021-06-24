@@ -1,2 +1,2 @@
 # Keeper-App
-A notes keeping app built using React-js
+Notes keeping app built using React-js
